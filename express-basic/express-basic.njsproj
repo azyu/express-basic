@@ -35,7 +35,10 @@
     <Compile Include="routes\user.js" />
     <Content Include="package.json" />
     <Content Include="public\stylesheets\style.styl" />
-    <Content Include="README.md" />
+    <Content Include="views\body-footer.jade" />
+    <Content Include="views\body-header.jade" />
+    <Content Include="views\about.jade" />
+    <Content Include="views\contact.jade" />
     <Content Include="views\index.jade" />
     <Content Include="views\layout.jade" />
   </ItemGroup>
